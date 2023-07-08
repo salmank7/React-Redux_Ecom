@@ -4,11 +4,11 @@ import { Link } from 'react-router-dom';
 
 const ProductComponent = () => {
     const products = useSelector((state)=> state.allProducts.products);
-    
+
     const renderList = products.map((product)=> {
       const { id, title, image, price, category } = product;
       return (
-       <div className='flex flex-col border shadow-lg p-4' key={id}>
+       <div className='flex flex-col border-[3px] shadow-lg p-4' key={id}>
         <div className='max-h-[100%] sm:h-[300px]'>
           <img className='sm:h-full' src={image} alt={title} />
         </div>
@@ -25,7 +25,7 @@ const ProductComponent = () => {
         </div>
        </div>
       )
-      
+
     });
     return (
       <>

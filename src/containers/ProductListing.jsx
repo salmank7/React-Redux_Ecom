@@ -20,7 +20,7 @@ const ProductListing = () => {
         fetchProducts()
       }, [])
   return (
-    <div className='container grid  place-items-center sm:grid-cols-2 md:grid-cols-4 gap-10 my-10'>
+    <div className='container grid  place-items-center sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-10 my-10 px-10'>
         <ProductComponent />
     </div>
   )
