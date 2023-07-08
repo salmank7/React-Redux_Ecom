@@ -1,6 +1,6 @@
 # React-Redux - Ecommerce Store
 
-## Demo: [Link to Website](https://myclothstore.netlify.app){:target="_blank"}
+## Demo: <a href="https://myclothstore.netlify.app" target="_blank"> -> Website</a>
 
 ![Alt text](/Preview.png)
 
