@@ -1,7 +1,7 @@
 # React-Redux - Ecommerce Store
 
 ## Demo: myclothstore.netlify.app
-![Alt text](./preview.png)
+![Alt text](/preview.png)
 
 
 ### **Technologies Used**
