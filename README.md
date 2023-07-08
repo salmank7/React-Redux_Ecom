@@ -1,6 +1,6 @@
 # React-Redux - Ecommerce Store
 
-## Demo: [Link to Demo](https://myclothstore.netlify.app)
+## Demo: [Link to Website](https://myclothstore.netlify.app)
 
 ![Alt text](/Preview.png)
 
